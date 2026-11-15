@@ -1,0 +1,6 @@
+name = "Ananya"
+age = 19
+city = "Hyderabad"
+
+print(f"{name} is {age} and lives in {city}.")
+print("Next year she will be", age + 1)
